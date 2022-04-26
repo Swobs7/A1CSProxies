@@ -10,7 +10,11 @@ Sau khi nhận ra Proxies rất ngon và có rất nhiều công dụng. Nên ta
 
 * Tải ngay Proxies [tại đây](https://anonfiles.com/52Q4z4acy5/proxies27421_txt).
 
-### Sources
+LATEST UPDATE
+```sh
+11:15PM - 4/26/2022
+```
+## Sources
 * http://globalproxies.blogspot.com/
 * http://www.samair.ru/proxy/ip-address-15.htm
 * http://www.cybersyndrome.net/plz.html
@@ -51,3 +55,7 @@ Sau khi nhận ra Proxies rất ngon và có rất nhiều công dụng. Nên ta
 * http://sockproxy.blogspot.com/2013/04/11-04-13-socks-45.html
 * http://www.samair.ru/proxy/time-09.htm
 * http://proxyfirenet.blogspot.com/
+
+
+## Contact
+Swobs#3780
