@@ -1,6 +1,6 @@
 ## Free HTTP, HTTPS, SOCKS4, SOCKS5 Proxies For A1CS!
 
-Sau khi nhận ra Proxies rất ngon và có rất nhiều công dụng. Nên tao quyết định làm một tool có thể tổng hợp các Proxies rồi xuất ra.
+Sau khi nhận ra Proxies rất ngon và có rất nhiều công dụng. Nên tao quyết định dùng tool có thể tổng hợp các Proxies rồi xuất ra.
 
 <img src="https://cdn.discordapp.com/attachments/839813081890947104/861083503709126686/A1CS.png" alt="A1CS">
 
